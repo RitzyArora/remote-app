@@ -1,0 +1,11 @@
+node_modules
+.angular
+.vscode
+.git
+.gitignore
+package-lock.json
+tsconfig*.json
+webpack*.js
+*.md
+src/
+e2e/
