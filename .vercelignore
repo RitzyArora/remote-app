@@ -3,8 +3,6 @@ node_modules
 .vscode
 .git
 .gitignore
-package-lock.json
-webpack*.js
 *.md
 src/
 e2e/
